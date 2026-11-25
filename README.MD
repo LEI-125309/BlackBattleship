@@ -4,7 +4,7 @@
 
 - Nome: Diogo Miranda – Número: 125309
 - Nome: Guilherme Cabo – Número: 129494
-- Nome: [Nome do membro 3] – Número: [Número]
+- Nome: Diego Costa – Número: 127523
 
 ## Descrição
 
